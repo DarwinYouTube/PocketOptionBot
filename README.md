@@ -1,3 +1,4 @@
+![Бот на Pocket Option](https://github.com/user-attachments/assets/8e2e515d-f145-4cd3-a192-f51368e84282)
 # Бот для Pocket Option
 Хочу вам рассказать про бота для Pocket Option который работает в Telegram, выдает сигналы на бинарный опцион Покет опшион
 # Как купить бота для Pocket Option?
